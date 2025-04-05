@@ -2,6 +2,8 @@
 
 Script simples em Python, projetado para **baixar vídeos da internet** através da biblioteca [**yt-dlp**](https://github.com/yt-dlp/yt-dlp). Apenas um adendo! Tenha consciência de que tais vídeos podem estar protegidos por direitos autorais, então utilize este script com responsabilidade - _ou não, caso prefira se aventurar pelos "sete mares" da internet!_ ☠️
 
+> **Nota**: O BlackFlag DL é apenas um projeto independente baseado na biblioteca yt-dlp, que por vezes se mostra instável devido a mudanças nas APIs dos sites suportados - o que é esperado que ocorra. Caso encontre algum erro, considere abrir uma [**issue**](https://github.com/yt-dlp/yt-dlp/issues) no repositório do projeto original.
+
 # 🚀 Funcionalidades
 
 - **Download de Vídeos**: 🎬 Baixe vídeos de plataformas como YouTube, TikTok, Instagram etc.
